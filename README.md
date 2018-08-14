@@ -1,2 +1,2 @@
-# proxy.github.io
-Blog.
+# proxy
+Blog
